@@ -17,7 +17,7 @@ h1{
 .half img{
     width: 100%;
 }
-#straight{
+p{
     text-align: justify;
 }
 .banner{
@@ -60,4 +60,7 @@ section{
     border-left: 7px solid;
     border-image: linear-gradient(180deg, blue, cyan);
     border-image-slice: 1;
+}
+footer{
+    text-align: center;
 }
